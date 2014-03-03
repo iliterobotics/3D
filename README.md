@@ -19,5 +19,7 @@ Vertical square tower: https://github.com/iliterobotics/3D/blob/master/Robot2013
 
 AndyMark 4 Perf ThruTread 500 Hex: https://github.com/iliterobotics/3D/blob/master/AndyMark/4%20Perf%20ThruTread%20500%20Hex.ipt.stl
 
+Pneuare Tank (best viewed with Surface Angles zoomed in): https://github.com/iliterobotics/3D/blob/master/Pneumatics/Pneuare%20Tank.ipt.stl
+
 ## Note
 Some complex assemblies may crash the browser due to the amount of objects that has to be rendered. GitHub is currently working on a fix.
