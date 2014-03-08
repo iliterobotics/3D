@@ -3,7 +3,7 @@
 
 ## Hand-Picked Files
 
-Floor pickup frame: https://github.com/iliterobotics/3D/blob/master/Robot2013/FloorPickup/Frame.stl
+Floor pickup frame: https://github.com/iliterobotics/3D/blob/master/Robot2013/FloorPickup/Frame.iam.stl
 
 Kinect sensor: https://github.com/iliterobotics/3D/blob/master/Kinect/kinect.ipt.stl
 
